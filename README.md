@@ -11,4 +11,4 @@ Click Here :- https://documenter.getpostman.com/view/26976391/2sAXqzXJjE
 **Step 3 :** Now go to package.json and then install all the dependencies listed inside 
 **Step 4 :** set up .env environment
 **Step 5 :** To run this Server write : "npm run dev"
-**Step 6 :** now if you want to test all the routes clicke here : https://documenter.getpostman.com/view/26976391/2sAXqzXJjE
+**Step 6 :** now if you want to test all the routes click here : https://documenter.getpostman.com/view/26976391/2sAXqzXJjE
